@@ -1,0 +1,19 @@
+{
+  "name": "servernodejs",
+  "version": "1.0.0",
+  "description": "server on Node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neo55/serverNodeJs.git"
+  },
+  "author": "Farkhad Nurmukhametov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Neo55/serverNodeJs/issues"
+  },
+  "homepage": "https://github.com/Neo55/serverNodeJs#readme"
+}
